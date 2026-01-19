@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+# 📈 CryptoPulse
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+CryptoPulse is a cross-platform crypto market explorer built with **React Native and Expo**, designed to run seamlessly on **Web, Android, and iOS** from a single codebase.
 
-## Get started
+This project showcases modern React Native fundamentals, clean component architecture, and file-based routing using **Expo Router**, with a focus on readability, scalability, and frontend best practices.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Live Demo (Web)
 
-2. Start the app
+Example: https://crypto-pulse-taupe.vercel.app/
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 📱 Platforms Supported
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 🌐 Web (React Native Web)
+- 🤖 Android
+- 🍎 iOS
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Built once, deployed everywhere.
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## ✨ Features
 
-```bash
-npm run reset-project
-```
+- 📊 Displays top cryptocurrencies by market cap (USD)
+- 🔍 Dynamic coin detail pages using file-based routing
+- 🧭 Stack-based navigation with Expo Router
+- 🎨 Dark-themed UI optimized for crypto dashboards
+- 🧱 Reusable components and clean layout structure
+- 📐 Responsive layouts using Flexbox
+- ⚡ Fast development workflow with Expo
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+> Note: This version uses **static demo data** to emphasize UI, navigation, and architecture.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🛠️ Tech Stack
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- React Native
+- Expo (Managed Workflow)
+- Expo Router
+- React Native Web
+- JavaScript (ES6+)
+- StyleSheet API for styling
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
